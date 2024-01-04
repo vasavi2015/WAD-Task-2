@@ -1,0 +1,114 @@
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin: 0;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.frame-heading {
+    background-image: url("https://www.icolorpalette.com/download/solidcolorimage/dcc6ea_solid_color_background_icolorpalette.png");
+    background-size: cover;
+    margin: 0;
+}
+.home{
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-home {
+    background: hsl(263, 60%, 92%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.login{
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-login {
+    background: hsl(263, 60%, 92%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.catalogue{
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-catalogue{
+    background: hsl(263, 60%, 92%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.cart{
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-cart{
+    background: hsl(263, 60%, 92%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.contact{
+    font-weight: bold;
+    background-color: none;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+.frame-contact{
+    background: hsl(263, 60%, 92%);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.frame-user{
+    background:hsl(263, 60%, 92%); 
+} 
+.frame-body {
+    background-image: url("https://img.freepik.com/premium-photo/3d-render-pastel-green-minimal-background-with-podium-stand-purple-stage-platform-cosmetic-product-presentation-advertising-studio-scene-with-showcase-pedestal-clean-design_106651-5210.jpg?w=740"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.frame-ho{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/634/689/non_2x/vector-purple-grid-mosaic-background-creative-design-templates.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
